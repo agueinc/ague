@@ -1,11 +1,11 @@
 # Ague
 
-## [what's Ague](/aboout/README.md)
+## [what's Ague](./aboout/)
 
-## [mission](/mission/README.md)
+## [mission](./mission/)
 
-## [service](/service/README.md)
+## [service](./service/)
 
-## [company](/company/README.md)
+## [company](./company/)
 
-## [recruit](/recruit/README.md)
+## [recruit](./recruit/)
