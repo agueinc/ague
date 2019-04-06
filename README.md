@@ -1,11 +1,11 @@
 # Ague
 
-## [what's Ague](./aboout)
+## [what's Ague](/aboout)
 
-## [mission](./mission)
+## [mission](/mission)
 
-## [service](./service)
+## [service](/service)
 
-## [company](./company)
+## [company](/company)
 
-## [recruit](./recruit)
+## [recruit](/recruit)
