@@ -1,6 +1,6 @@
 # Service
 
-## [Development support(./development_support.md)
+## [Development support](./development_support.md)
 `Development support` is something that can help new development, function change, maintenance etc. of a company.
 
 [more details ...](./development_support.md)
