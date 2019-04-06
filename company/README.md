@@ -2,6 +2,8 @@
 
 ### information
 
+| name | content |
+|--------|-----|
 | Company Name | Ague,inc |
 | President & CEO | Takehiro Takahashi |
 | Capital | 1,000,000(Japanese yen) |
