@@ -1,6 +1,6 @@
 # Ague
 
-## [what's Ague](./aboout/)
+## [what's Ague](./about/)
 
 ## [mission](./mission/)
 
